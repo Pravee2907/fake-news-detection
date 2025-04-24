@@ -8,7 +8,6 @@ news = [
     "The government has announced a new scheme for farmers",
     "NASA discovers new planet in solar system",
     "Click here to win a million dollars now!",
-    "Aliens landed in my backyard last night!",
     "Elections postponed due to weather conditions",
     "Scientists create vaccine for deadly virus",
     "You won a free iPhone! Claim now!",
@@ -19,7 +18,6 @@ labels = [
     "REAL",  # Real news
     "REAL",
     "FAKE",  # Fake news
-    "FAKE",
     "REAL",
     "REAL",
     "FAKE",
